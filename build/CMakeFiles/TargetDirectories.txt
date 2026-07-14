@@ -1,0 +1,5 @@
+D:/C++/Covid/repo-rohit-dahiya-3da7-hpc-programming-lab/part_1_disease/build/CMakeFiles/hpc_disease_simulation.dir
+D:/C++/Covid/repo-rohit-dahiya-3da7-hpc-programming-lab/part_1_disease/build/CMakeFiles/all_tests.dir
+D:/C++/Covid/repo-rohit-dahiya-3da7-hpc-programming-lab/part_1_disease/build/CMakeFiles/test.dir
+D:/C++/Covid/repo-rohit-dahiya-3da7-hpc-programming-lab/part_1_disease/build/CMakeFiles/edit_cache.dir
+D:/C++/Covid/repo-rohit-dahiya-3da7-hpc-programming-lab/part_1_disease/build/CMakeFiles/rebuild_cache.dir
